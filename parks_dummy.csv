@@ -1,0 +1,501 @@
+user_id,Users,park_id,park_name,rating
+1001,Aarav,2001,Brandywine Falls Provincial Park,0
+1006,Alex,2001,Brandywine Falls Provincial Park,0
+1010,Anushka,2001,Brandywine Falls Provincial Park,0
+1069,Saurabh,2001,Brandywine Falls Provincial Park,0
+1080,Vaidehi,2001,Brandywine Falls Provincial Park,0
+1082,Vidhi,2001,Brandywine Falls Provincial Park,0
+1086,Yogesh,2001,Brandywine Falls Provincial Park,0
+1004,Adam,2008,Lake O'Hara,0
+1008,Ali,2008,Lake O'Hara,0
+1010,Anushka,2008,Lake O'Hara,0
+1013,Ashley,2008,Lake O'Hara,0
+1015,Cathrine,2008,Lake O'Hara,0
+1019,Christina,2008,Lake O'Hara,0
+1020,Derek,2008,Lake O'Hara,0
+1003,Aashish,2009,Gastown Steam Clock,0
+1003,Aashish,2009,Gastown Steam Clock,0
+1008,Ali,2032,Fort Langley,0
+1017,Chetan,2032,Fort Langley,0
+1022,Dominic,2032,Fort Langley,0
+1033,Izzie,2032,Fort Langley,0
+1048,Mayank,2032,Fort Langley,0
+1013,Ashley,2001,Brandywine Falls Provincial Park,0.5
+1060,Rahul,2001,Brandywine Falls Provincial Park,0.5
+1063,Rani,2001,Brandywine Falls Provincial Park,0.5
+1066,Samuel,2001,Brandywine Falls Provincial Park,0.5
+1071,Shrey,2001,Brandywine Falls Provincial Park,1
+1074,Shubham,2001,Brandywine Falls Provincial Park,1
+1075,Simran,2001,Brandywine Falls Provincial Park,1
+1076,Smriti,2001,Brandywine Falls Provincial Park,1
+1078,Thomas,2001,Brandywine Falls Provincial Park,1
+1017,Chetan,2007,Kootenay National Park,1
+1021,Divya,2007,Kootenay National Park,1
+1023,Elizabeth,2007,Kootenay National Park,1
+1026,Eve,2007,Kootenay National Park,1
+1028,George,2007,Kootenay National Park,1
+1029,Harry,2007,Kootenay National Park,1
+1007,Alexander,2009,MacMillan Provincial Park,1
+1008,Ali,2009,MacMillan Provincial Park,1
+1009,Alison,2009,MacMillan Provincial Park,1
+1011,Aradhya,2009,MacMillan Provincial Park,1
+1014,Avni,2009,MacMillan Provincial Park,1
+1017,Chetan,2009,MacMillan Provincial Park,1
+1019,Christina,2009,MacMillan Provincial Park,1
+1019,Christina,2009,MacMillan Provincial Park,1
+1020,Derek,2010,MacMillan Provincial Park,1
+1012,Arun,2023,Museum of Vancouver,1
+1024,Esha,2023,Museum of Vancouver,1
+1029,Harry,2023,Museum of Vancouver,1
+1004,Adam,2024,Mount Robson Provincial Park,1
+1025,Ethan,2024,Mount Robson Provincial Park,1
+1035,Jaspreet,2024,Mount Robson Provincial Park,1
+1059,Rachel,2025,Britannia Mine Museum,1
+1082,Vidhi,2025,Britannia Mine Museum,1
+1086,Yogesh,2025,Britannia Mine Museum,1
+1081,Varun,2025,Britannia Mine Museum,1
+1064,Rohit,2026,Lighthouse Park | West Vancouver,1
+1031,Ishaan,2032,Fort Langley,1
+1039,Karan,2032,Fort Langley,1
+1053,Monica,2032,Fort Langley,1
+1061,Rajat,2032,Fort Langley,1
+1046,Lisa,2003,Beacon Hill Park,2
+1048,Mayank,2003,Beacon Hill Park,2
+1002,Aarti,2007,Wells Gray Provincial Park,2
+1003,Aashish,2007,Wells Gray Provincial Park,2
+1005,Addison,2007,Wells Gray Provincial Park,2
+1008,Ali,2007,Wells Gray Provincial Park,2
+1012,Arun,2007,Wells Gray Provincial Park,2
+1015,Cathrine,2007,Wells Gray Provincial Park,2
+1016,Chandrakanth,2007,Wells Gray Provincial Park,2
+1031,Ishaan,2007,Wells Gray Provincial Park,2
+1003,Aashish,2008,Lake O'Hara,2
+1021,Divya,2010,Berg Lake,2
+1003,Aashish,2023,Museum of Vancouver,2
+1006,Alex,2023,Museum of Vancouver,2
+1019,Christina,2023,Museum of Vancouver,2
+1027,Gagan,2023,Museum of Vancouver,2
+1003,Aashish,2024,VanDusen Botanical Garden,2
+1008,Ali,2024,VanDusen Botanical Garden,2
+1013,Ashley,2024,VanDusen Botanical Garden,2
+1018,Chris,2024,VanDusen Botanical Garden,2
+1022,Dominic,2024,VanDusen Botanical Garden,2
+1024,Esha,2024,VanDusen Botanical Garden,2
+1030,Isha,2024,VanDusen Botanical Garden,2
+1038,John,2024,VanDusen Botanical Garden,2
+1043,Kushagra,2025,Britannia Mine Museum,2
+1049,Megan,2025,Britannia Mine Museum,2
+1058,Preksha,2025,Britannia Mine Museum,2
+1062,Rajesh,2025,Britannia Mine Museum,2
+1080,Vaidehi,2025,Britannia Mine Museum,2
+1083,William,2025,Britannia Mine Museum,2
+1068,Sarah,2026,Lighthouse Park | West Vancouver,2
+1074,Shubham,2026,Lighthouse Park | West Vancouver,2
+1081,Varun,2026,Lighthouse Park | West Vancouver,2
+1087,Yogya,2026,Lighthouse Park | West Vancouver,2
+1063,Rani,2032,Fort Langley,2
+1069,Saurabh,2032,Fort Langley,2
+1069,Saurabh,2033,Queen Elizabeth Park,2
+1038,John,2034,Fernie Alpine Resort,2
+1042,Kush,2034,Fernie Alpine Resort,2
+1048,Mayank,2034,Fernie Alpine Resort,2
+1085,Yash,2034,Fernie Alpine Resort,2
+1007,Alexander,2035,SilverStar Mountain Resort,2
+1082,Vidhi,2002,Alice Lake Provincial Park,3
+1086,Yogesh,2002,Alice Lake Provincial Park,3
+1088,Zara,2002,Alice Lake Provincial Park,3
+1036,Jennifer,2003,Beacon Hill Park,3
+1037,Jessica,2003,Beacon Hill Park,3
+1039,Karan,2003,Beacon Hill Park,3
+1043,Kushagra,2003,Beacon Hill Park,3
+1044,Laya,2003,Beacon Hill Park,3
+1082,Vidhi,2003,Beacon Hill Park,3
+1084,Wilson,2003,Beacon Hill Park,3
+1085,Yash,2003,Beacon Hill Park,3
+1087,Yogya,2003,Beacon Hill Park,3
+1088,Zara,2003,Beacon Hill Park,3
+1001,Aarav,2004,Blackcomb Peak,3
+1004,Adam,2004,Blackcomb Peak,3
+1007,Alexander,2004,Blackcomb Peak,3
+1009,Alison,2004,Blackcomb Peak,3
+1012,Arun,2004,Blackcomb Peak,3
+1020,Derek,2004,Blackcomb Peak,3
+1025,Ethan,2004,Blackcomb Peak,3
+1029,Harry,2004,Blackcomb Peak,3
+1031,Ishaan,2004,Blackcomb Peak,3
+1035,Jaspreet,2004,Blackcomb Peak,3
+1068,Sarah,2011,Garibaldi Lake,3
+1069,Saurabh,2011,Garibaldi Lake,3
+1071,Shrey,2011,Garibaldi Lake,3
+1072,Shreya,2011,Garibaldi Lake,3
+1076,Smriti,2011,Garibaldi Lake,3
+1078,Thomas,2011,Garibaldi Lake,3
+1079,Urvi,2011,Garibaldi Lake,3
+1081,Varun,2011,Garibaldi Lake,3
+1002,Aarti,2015,Royal BC Museum,3
+1004,Adam,2015,Royal BC Museum,3
+1007,Alexander,2015,Royal BC Museum,3
+1009,Alison,2015,Royal BC Museum,3
+1011,Aradhya,2015,Royal BC Museum,3
+1014,Avni,2015,Royal BC Museum,3
+1055,Owen,2017,Goldstream Provincial Park,3
+1058,Preksha,2018,Panorama Mountain Resort,3
+1069,Saurabh,2018,Panorama Mountain Resort,3
+1077,Tanvi,2018,Panorama Mountain Resort,3
+1080,Vaidehi,2019,Playland at the PNE,3
+1088,Zara,2020,Nairn Falls Provincial Park,3
+1060,Rahul,2021,Juan de Fuca Marine Trail,3
+1061,Rajat,2021,Juan de Fuca Marine Trail,3
+1073,Shrishti,2021,Juan de Fuca Marine Trail,3
+1077,Tanvi,2021,Juan de Fuca Marine Trail,3
+1032,Isobel,2022,Englishman River Falls Provincial Park,3
+1054,Nick,2022,Englishman River Falls Provincial Park,3
+1059,Rachel,2022,Englishman River Falls Provincial Park,3
+1040,Kevin,2024,Jericho Beach Park,3
+1041,Krishna,2025,Britannia Mine Museum,3
+1047,Mahek,2025,Britannia Mine Museum,3
+1052,Mohit,2025,Britannia Mine Museum,3
+1054,Nick,2025,Britannia Mine Museum,3
+1079,Urvi,2025,Britannia Mine Museum,3
+1085,Yash,2025,Britannia Mine Museum,3
+1072,Shreya,2026,Lighthouse Park | West Vancouver,3
+1078,Thomas,2026,Lighthouse Park | West Vancouver,3
+1086,Yogesh,2026,Lighthouse Park | West Vancouver,3
+1046,Lisa,2027,Pacific Rim National Park Reserve,3
+1051,Meredith,2027,Pacific Rim National Park Reserve,3
+1058,Preksha,2027,Pacific Rim National Park Reserve,3
+1064,Rohit,2027,Pacific Rim National Park Reserve,3
+1025,Ethan,2028,Golden Ears Provincial Park,3
+1068,Sarah,2029,Robson Street,3
+1083,William,2029,Robson Street,3
+1066,Samuel,2030,Revelstoke Mountain Resort,3
+1070,Saurav,2030,Revelstoke Mountain Resort,3
+1079,Urvi,2030,Revelstoke Mountain Resort,3
+1014,Avni,2031,Kootenay National Park,3
+1032,Isobel,2031,Kootenay National Park,3
+1072,Shreya,2033,Queen Elizabeth Park,3
+1076,Smriti,2033,Queen Elizabeth Park,3
+1082,Vidhi,2033,Queen Elizabeth Park,3
+1084,Wilson,2033,Queen Elizabeth Park,3
+1024,Esha,2034,Fernie Alpine Resort,3
+1033,Izzie,2034,Fernie Alpine Resort,3
+1053,Monica,2034,Fernie Alpine Resort,3
+1066,Samuel,2034,Fernie Alpine Resort,3
+1074,Shubham,2034,Fernie Alpine Resort,3
+1016,Chandrakanth,2035,SilverStar Mountain Resort,3
+1011,Aradhya,2036,Legislative Assembly of British Columbia,3
+1037,Jessica,2036,Legislative Assembly of British Columbia,3
+1018,Chris,2038,Peak 2 Peak Gondola Whistler,3
+1045,Leo,2038,Peak 2 Peak Gondola Whistler,3
+1048,Matthew,2039,Alice Lake Provincial Park,3
+1031,Ishaan,2040,Stanley Park,3
+1037,Jessica,2040,Stanley Park,3
+1055,Owen,2042,Glacier National Park of Canada,3
+1078,Thomas,2042,Glacier National Park of Canada,3
+1013,Ashley,2044,Rathtrevor Beach Provincial Park,3
+1017,Chetan,2044,Rathtrevor Beach Provincial Park,3
+1028,George,2045,Kicking Horse Mountain Resort,3
+1030,Isha,2045,Kicking Horse Mountain Resort,3
+1036,Jennifer,2045,Kicking Horse Mountain Resort,3
+1040,Kevin,2045,Kicking Horse Mountain Resort,3
+1042,Kush,2045,Kicking Horse Mountain Resort,3
+1068,Sarah,2046,Science World,3
+1073,Shrishti,2046,Science World,3
+1076,Smriti,2046,Science World,3
+1009,Alison,2047,Garibaldi Provincial Park,3
+1024,Esha,2047,Garibaldi Provincial Park,3
+1028,George,2047,Garibaldi Provincial Park,3
+1048,Matthew,2048,Kitsilano Beach,3
+1061,Rajat,2048,Kitsilano Beach,3
+1030,Isha,2049,Little Qualicum Falls Provincial Park,3
+1035,Jaspreet,2049,Little Qualicum Falls Provincial Park,3
+1039,Karan,2049,Little Qualicum Falls Provincial Park,3
+1042,Kush,2049,Little Qualicum Falls Provincial Park,3
+1053,Monica,2050,Spotted Lake,3
+1057,Paul,2050,Spotted Lake,3
+1034,James,2004,Blackcomb Peak,3.5
+1038,John,2004,Blackcomb Peak,3.5
+1041,Krishna,2004,Blackcomb Peak,3.5
+1043,Kushagra,2004,Blackcomb Peak,3.5
+1045,Leo,2004,Blackcomb Peak,3.5
+1050,Mehar,2004,Blackcomb Peak,3.5
+1065,Samarth,2004,Blackcomb Peak,3.5
+1073,Shrishti,2004,Blackcomb Peak,3.5
+1082,Vidhi,2004,Blackcomb Peak,3.5
+1084,Wilson,2011,Garibaldi Lake,3.5
+1085,Yash,2011,Garibaldi Lake,3.5
+1087,Yogya,2011,Garibaldi Lake,3.5
+1048,Matthew,2012,Bloedel Conservatory,3.5
+1049,Megan,2012,Bloedel Conservatory,3.5
+1052,Mohit,2012,Bloedel Conservatory,3.5
+1055,Owen,2012,Bloedel Conservatory,3.5
+1002,Aarti,2016,RED Mountain Resort,3.5
+1006,Alex,2016,RED Mountain Resort,3.5
+1010,Anushka,2016,RED Mountain Resort,3.5
+1016,Chandrakanth,2016,RED Mountain Resort,3.5
+1022,Dominic,2016,RED Mountain Resort,3.5
+1027,Gagan,2016,RED Mountain Resort,3.5
+1023,Elizabeth,2002,Alice Lake Provincial Park,4
+1024,Esha,2002,Alice Lake Provincial Park,4
+1026,Eve,2002,Alice Lake Provincial Park,4
+1027,Gagan,2002,Alice Lake Provincial Park,4
+1028,George,2002,Alice Lake Provincial Park,4
+1070,Saurav,2002,Alice Lake Provincial Park,4
+1073,Shrishti,2002,Alice Lake Provincial Park,4
+1074,Shubham,2002,Alice Lake Provincial Park,4
+1077,Tanvi,2002,Alice Lake Provincial Park,4
+1079,Urvi,2002,Alice Lake Provincial Park,4
+1050,Mehar,2003,Beacon Hill Park,4
+1054,Nick,2003,Beacon Hill Park,4
+1057,Paul,2003,Beacon Hill Park,4
+1060,Rahul,2003,Beacon Hill Park,4
+1062,Rajesh,2003,Beacon Hill Park,4
+1066,Samuel,2003,Beacon Hill Park,4
+1075,Simran,2003,Beacon Hill Park,4
+1077,Tanvi,2003,Beacon Hill Park,4
+1080,Vaidehi,2003,Beacon Hill Park,4
+1015,Cathrine,2005,Big White Ski Resort,4
+1027,Gagan,2005,Big White Ski Resort,4
+1035,Jaspreet,2005,Big White Ski Resort,4
+1038,John,2005,Big White Ski Resort,4
+1042,Kush,2005,Big White Ski Resort,4
+1043,Kushagra,2005,Big White Ski Resort,4
+1044,Laya,2005,Big White Ski Resort,4
+1046,Lisa,2005,Big White Ski Resort,4
+1048,Mayank,2005,Big White Ski Resort,4
+1060,Rahul,2005,Big White Ski Resort,4
+1063,Rani,2005,Big White Ski Resort,4
+1070,Saurav,2005,Big White Ski Resort,4
+1074,Shubham,2005,Big White Ski Resort,4
+1079,Urvi,2005,Big White Ski Resort,4
+1085,Yash,2005,Big White Ski Resort,4
+1058,Preksha,2010,Berg Lake,4
+1059,Rachel,2010,Berg Lake,4
+1061,Rajat,2010,Berg Lake,4
+1062,Rajesh,2010,Berg Lake,4
+1064,Rohit,2010,Berg Lake,4
+1067,Sara,2010,Berg Lake,4
+1067,Sara,2010,Berg Lake,4
+1057,Paul,2012,Bloedel Conservatory,4
+1060,Rahul,2012,Bloedel Conservatory,4
+1062,Rajesh,2012,Bloedel Conservatory,4
+1064,Rohit,2012,Bloedel Conservatory,4
+1065,Samarth,2012,Bloedel Conservatory,4
+1067,Sara,2012,Bloedel Conservatory,4
+1068,Sarah,2012,Bloedel Conservatory,4
+1048,Matthew,2013,Lions Gate Bridge,4
+1048,Mayank,2013,Lions Gate Bridge,4
+1020,Derek,2014,Canada Line - SkyTrain,4
+1023,Elizabeth,2014,Canada Line - SkyTrain,4
+1026,Eve,2014,Canada Line - SkyTrain,4
+1029,Harry,2014,Canada Line - SkyTrain,4
+1031,Ishaan,2014,Canada Line - SkyTrain,4
+1034,James,2014,Canada Line - SkyTrain,4
+1036,Jennifer,2014,Canada Line - SkyTrain,4
+1028,George,2017,Goldstream Provincial Park,4
+1032,Isobel,2017,Goldstream Provincial Park,4
+1036,Jennifer,2017,Goldstream Provincial Park,4
+1051,Meredith,2017,Goldstream Provincial Park,4
+1058,Preksha,2017,Goldstream Provincial Park,4
+1063,Rani,2018,Panorama Mountain Resort,4
+1071,Shrey,2018,Panorama Mountain Resort,4
+1077,Tanvi,2019,Playland at the PNE,4
+1083,William,2019,Playland at the PNE,4
+1081,Varun,2020,Nairn Falls Provincial Park,4
+1083,William,2020,Nairn Falls Provincial Park,4
+1064,Rohit,2021,Juan de Fuca Marine Trail,4
+1067,Sara,2021,Juan de Fuca Marine Trail,4
+1069,Saurabh,2021,Juan de Fuca Marine Trail,4
+1071,Shrey,2021,Juan de Fuca Marine Trail,4
+1075,Simran,2021,Juan de Fuca Marine Trail,4
+1029,Harry,2022,Englishman River Falls Provincial Park,4
+1035,Jaspreet,2022,Englishman River Falls Provincial Park,4
+1040,Kevin,2022,Englishman River Falls Provincial Park,4
+1046,Lisa,2022,Englishman River Falls Provincial Park,4
+1051,Meredith,2022,Englishman River Falls Provincial Park,4
+1056,Pallavi,2022,Englishman River Falls Provincial Park,4
+1048,Mayank,2027,Pacific Rim National Park Reserve,4
+1054,Nick,2027,Pacific Rim National Park Reserve,4
+1061,Rajat,2027,Pacific Rim National Park Reserve,4
+1020,Derek,2028,Golden Ears Provincial Park,4
+1030,Isha,2028,Golden Ears Provincial Park,4
+1035,Jaspreet,2028,Golden Ears Provincial Park,4
+1040,Kevin,2028,Golden Ears Provincial Park,4
+1045,Leo,2028,Golden Ears Provincial Park,4
+1047,Mahek,2029,Robson Street,4
+1053,Monica,2029,Robson Street,4
+1057,Paul,2029,Robson Street,4
+1076,Smriti,2029,Robson Street,4
+1051,Meredith,2030,Revelstoke Mountain Resort,4
+1086,Yogesh,2030,Revelstoke Mountain Resort,4
+1037,Jessica,2031,Kootenay National Park,4
+1045,Leo,2031,Kootenay National Park,4
+1086,Yogesh,2033,Queen Elizabeth Park,4
+1027,Gagan,2034,Fernie Alpine Resort,4
+1061,Rajat,2034,Fernie Alpine Resort,4
+1069,Saurabh,2034,Fernie Alpine Resort,4
+1055,Owen,2035,SilverStar Mountain Resort,4
+1083,William,2035,SilverStar Mountain Resort,4
+1019,Christina,2036,Legislative Assembly of British Columbia,4
+1056,Pallavi,2036,Legislative Assembly of British Columbia,4
+1010,Anushka,2037,Stawamus Chief,4
+1035,Jaspreet,2037,Stawamus Chief,4
+1030,Isha,2038,Peak 2 Peak Gondola Whistler,4
+1038,John,2038,Peak 2 Peak Gondola Whistler,4
+1053,Monica,2038,Peak 2 Peak Gondola Whistler,4
+1043,Kushagra,2039,Sea to Sky Gondola,4
+1056,Pallavi,2039,Sea to Sky Gondola,4
+1021,Divya,2040,Stanley Park,4
+1061,Rajat,2041,Shannon Falls Provincial Park,4
+1070,Saurav,2041,Shannon Falls Provincial Park,4
+1074,Shubham,2041,Shannon Falls Provincial Park,4
+1080,Vaidehi,2041,Shannon Falls Provincial Park,4
+1045,Leo,2042,Glacier National Park of Canada,4
+1058,Preksha,2042,Glacier National Park of Canada,4
+1067,Sara,2042,Glacier National Park of Canada,4
+1072,Shreya,2042,Glacier National Park of Canada,4
+1075,Simran,2042,Glacier National Park of Canada,4
+1081,Varun,2042,Glacier National Park of Canada,4
+1006,Alex,2043,Rogers Pass,4
+1007,Alexander,2043,Rogers Pass,4
+1034,James,2043,Rogers Pass,4
+1005,Addison,2044,Rathtrevor Beach Provincial Park,4
+1009,Alison,2044,Rathtrevor Beach Provincial Park,4
+1015,Cathrine,2044,Rathtrevor Beach Provincial Park,4
+1033,Izzie,2045,Kicking Horse Mountain Resort,4
+1034,James,2045,Kicking Horse Mountain Resort,4
+1037,Jessica,2045,Kicking Horse Mountain Resort,4
+1041,Krishna,2045,Kicking Horse Mountain Resort,4
+1065,Samarth,2046,Science World,4
+1071,Shrey,2046,Science World,4
+1075,Simran,2046,Science World,4
+1001,Aarav,2047,Garibaldi Provincial Park,4
+1018,Chris,2047,Garibaldi Provincial Park,4
+1026,Eve,2047,Garibaldi Provincial Park,4
+1030,Isha,2047,Garibaldi Provincial Park,4
+1047,Mahek,2048,Kitsilano Beach,4
+1050,Mehar,2048,Kitsilano Beach,4
+1052,Mohit,2048,Kitsilano Beach,4
+1052,Mohit,2048,Kitsilano Beach,4
+1055,Owen,2048,Kitsilano Beach,4
+1059,Rachel,2048,Kitsilano Beach,4
+1002,Aarti,2049,Little Qualicum Falls Provincial Park,4
+1024,Esha,2049,Little Qualicum Falls Provincial Park,4
+1045,Leo,2050,Spotted Lake,4
+1050,Mehar,2050,Spotted Lake,4
+1010,Anushka,2002,Alice Lake Provincial Park,4.5
+1011,Aradhya,2002,Alice Lake Provincial Park,4.5
+1014,Avni,2002,Alice Lake Provincial Park,4.5
+1036,Jennifer,2002,Alice Lake Provincial Park,4.5
+1039,Karan,2002,Alice Lake Provincial Park,4.5
+1041,Krishna,2002,Alice Lake Provincial Park,4.5
+1043,Kushagra,2002,Alice Lake Provincial Park,4.5
+1046,Lisa,2002,Alice Lake Provincial Park,4.5
+1051,Meredith,2005,Big White Ski Resort,4.5
+1054,Nick,2005,Big White Ski Resort,4.5
+1057,Paul,2005,Big White Ski Resort,4.5
+1057,Paul,2005,Big White Ski Resort,4.5
+1049,Megan,2010,Berg Lake,4.5
+1052,Mohit,2010,Berg Lake,4.5
+1055,Owen,2010,Berg Lake,4.5
+1056,Pallavi,2010,Berg Lake,4.5
+1071,Shrey,2012,Bloedel Conservatory,4.5
+1073,Shrishti,2012,Bloedel Conservatory,4.5
+1075,Simran,2012,Bloedel Conservatory,4.5
+1078,Thomas,2012,Bloedel Conservatory,4.5
+1081,Varun,2012,Bloedel Conservatory,4.5
+1084,Wilson,2012,Bloedel Conservatory,4.5
+1088,Zara,2012,Bloedel Conservatory,4.5
+1049,Megan,2013,Lions Gate Bridge,4.5
+1002,Aarti,2014,Canada Line - SkyTrain,4.5
+1005,Addison,2014,Canada Line - SkyTrain,4.5
+1008,Ali,2014,Canada Line - SkyTrain,4.5
+1011,Aradhya,2014,Canada Line - SkyTrain,4.5
+1016,Chandrakanth,2014,Canada Line - SkyTrain,4.5
+1017,Chetan,2014,Canada Line - SkyTrain,4.5
+1001,Aarav,2002,Alice Lake Provincial Park,5
+1001,Aarav,2002,Alice Lake Provincial Park,5
+1005,Addison,2002,Alice Lake Provincial Park,5
+1006,Alex,2002,Alice Lake Provincial Park,5
+1016,Chandrakanth,2002,Alice Lake Provincial Park,5
+1018,Chris,2002,Alice Lake Provincial Park,5
+1022,Dominic,2002,Alice Lake Provincial Park,5
+1030,Isha,2002,Alice Lake Provincial Park,5
+1031,Ishaan,2002,Alice Lake Provincial Park,5
+1032,Isobel,2002,Alice Lake Provincial Park,5
+1034,James,2002,Alice Lake Provincial Park,5
+1065,Samarth,2002,Alice Lake Provincial Park,5
+1068,Sarah,2002,Alice Lake Provincial Park,5
+1068,Sarah,2003,Beacon Hill Park,5
+1070,Saurav,2003,Beacon Hill Park,5
+1072,Shreya,2003,Beacon Hill Park,5
+1088,Zara,2005,Big White Ski Resort,5
+1005,Addison,2006,Joffre Lakes Provincial Park,5
+1010,Anushka,2006,Joffre Lakes Provincial Park,5
+1012,Arun,2006,Joffre Lakes Provincial Park,5
+1015,Cathrine,2006,Joffre Lakes Provincial Park,5
+1018,Chris,2006,Joffre Lakes Provincial Park,5
+1021,Divya,2006,Joffre Lakes Provincial Park,5
+1024,Esha,2006,Joffre Lakes Provincial Park,5
+1026,Eve,2006,Joffre Lakes Provincial Park,5
+1067,Sara,2006,Joffre Lakes Provincial Park,5
+1022,Dominic,2010,Berg Lake,5
+1023,Elizabeth,2010,Berg Lake,5
+1025,Ethan,2010,Berg Lake,5
+1027,Gagan,2010,Berg Lake,5
+1042,Kush,2010,Berg Lake,5
+1044,Laya,2010,Berg Lake,5
+1046,Lisa,2010,Berg Lake,5
+1047,Mahek,2010,Berg Lake,5
+1039,Karan,2013,Lions Gate Bridge,5
+1041,Krishna,2013,Lions Gate Bridge,5
+1042,Kush,2013,Lions Gate Bridge,5
+1044,Laya,2013,Lions Gate Bridge,5
+1047,Mahek,2013,Lions Gate Bridge,5
+1039,Karan,2017,Goldstream Provincial Park,5
+1044,Laya,2017,Goldstream Provincial Park,5
+1048,Matthew,2017,Goldstream Provincial Park,5
+1066,Samuel,2018,Panorama Mountain Resort,5
+1072,Shreya,2018,Panorama Mountain Resort,5
+1080,Vaidehi,2019,Playland at the PNE,5
+1085,Yash,2019,Playland at the PNE,5
+1087,Yogya,2019,Playland at the PNE,5
+1076,Smriti,2020,Nairn Falls Provincial Park,5
+1079,Urvi,2020,Nairn Falls Provincial Park,5
+1085,Yash,2020,Nairn Falls Provincial Park,5
+1087,Yogya,2020,Nairn Falls Provincial Park,5
+1036,Jennifer,2022,Englishman River Falls Provincial Park,5
+1043,Kushagra,2022,Englishman River Falls Provincial Park,5
+1048,Matthew,2022,Englishman River Falls Provincial Park,5
+1032,Isobel,2028,Golden Ears Provincial Park,5
+1037,Jessica,2028,Golden Ears Provincial Park,5
+1044,Laya,2028,Golden Ears Provincial Park,5
+1059,Rachel,2030,Revelstoke Mountain Resort,5
+1009,Alison,2031,Kootenay National Park,5
+1025,Ethan,2031,Kootenay National Park,5
+1040,Kevin,2031,Kootenay National Park,5
+1050,Mehar,2031,Kootenay National Park,5
+1070,Saurav,2035,SilverStar Mountain Resort,5
+1049,Megan,2036,Legislative Assembly of British Columbia,5
+1067,Sara,2036,Legislative Assembly of British Columbia,5
+1076,Smriti,2036,Legislative Assembly of British Columbia,5
+1084,Wilson,2036,Legislative Assembly of British Columbia,5
+1033,Izzie,2037,Stawamus Chief,5
+1013,Ashley,2038,Peak 2 Peak Gondola Whistler,5
+1035,Jaspreet,2038,Peak 2 Peak Gondola Whistler,5
+1042,Kush,2039,Sea to Sky Gondola,5
+1062,Rajesh,2039,Sea to Sky Gondola,5
+1072,Shreya,2039,Sea to Sky Gondola,5
+1016,Chandrakanth,2040,Stanley Park,5
+1065,Samarth,2041,Shannon Falls Provincial Park,5
+1063,Rani,2042,Glacier National Park of Canada,5
+1004,Adam,2043,Rogers Pass,5
+1012,Arun,2043,Rogers Pass,5
+1023,Elizabeth,2043,Rogers Pass,5
+1003,Aashish,2044,Rathtrevor Beach Provincial Park,5
+1013,Ashley,2047,Garibaldi Provincial Park,5
+1021,Divya,2047,Garibaldi Provincial Park,5
+1033,Izzie,2047,Garibaldi Provincial Park,5
+1056,Pallavi,2048,Kitsilano Beach,5
+1014,Avni,2049,Little Qualicum Falls Provincial Park,5
+1048,Matthew,2050,Spotted Lake,5
